@@ -1,6 +1,5 @@
 ## Hi, I'm Kyle 👋
 
-- Software Engineer @ State Farm.
-- Building my [niche HR](https://www.farmhand.pro/) software.
+- Software Engineer @ Apple
 - BYU Information Systems Student 📚
 
